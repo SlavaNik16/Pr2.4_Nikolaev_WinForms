@@ -1,0 +1,11 @@
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\PR_4.2_Nikolaev_WinForms\PR_4.2_Nikolaev_WinForms\bin\Debug\PR_4.2_Nikolaev_WinForms.exe.config
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\PR_4.2_Nikolaev_WinForms\PR_4.2_Nikolaev_WinForms\bin\Debug\PR_4.2_Nikolaev_WinForms.exe
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\PR_4.2_Nikolaev_WinForms\PR_4.2_Nikolaev_WinForms\bin\Debug\PR_4.2_Nikolaev_WinForms.pdb
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\PR_4.2_Nikolaev_WinForms\PR_4.2_Nikolaev_WinForms\obj\Debug\PR_4.2_Nikolaev_WinForms.csproj.AssemblyReference.cache
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\PR_4.2_Nikolaev_WinForms\PR_4.2_Nikolaev_WinForms\obj\Debug\PR_4.2_Nikolaev_WinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\PR_4.2_Nikolaev_WinForms\PR_4.2_Nikolaev_WinForms\obj\Debug\PR_4._2_Nikolaev_WinForms.Form1.resources
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\PR_4.2_Nikolaev_WinForms\PR_4.2_Nikolaev_WinForms\obj\Debug\PR_4._2_Nikolaev_WinForms.Properties.Resources.resources
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\PR_4.2_Nikolaev_WinForms\PR_4.2_Nikolaev_WinForms\obj\Debug\PR_4.2_Nikolaev_WinForms.csproj.GenerateResource.cache
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\PR_4.2_Nikolaev_WinForms\PR_4.2_Nikolaev_WinForms\obj\Debug\PR_4.2_Nikolaev_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\PR_4.2_Nikolaev_WinForms\PR_4.2_Nikolaev_WinForms\obj\Debug\PR_4.2_Nikolaev_WinForms.exe
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\PR_4.2_Nikolaev_WinForms\PR_4.2_Nikolaev_WinForms\obj\Debug\PR_4.2_Nikolaev_WinForms.pdb
